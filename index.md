@@ -18,9 +18,15 @@ title: My CV
 <p>Điện thoại: 0332458786</p>
 
 
-## Research interests
+## Môn học chuyên ngành  
 
-mạng lõi 4G/5G , mạng mềm (Software-Defined Networking) 
+Mạng di động 
+
+Truyền thông vô tuyến 
+
+Mạng mềm 
+
+Quản trị mạng viễn thông
 
 
 ## Kinh nghiệm
