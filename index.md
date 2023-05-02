@@ -1,19 +1,17 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: My CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nguyễn Như Phúc 
+Sinh viên khoa Điện tử viễn thông 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="phucnguyennhu2708@gmail.com">phucnguyennhu2708@gmail.com</a>
+
 </div>
 
 
-## Currently
 
-Standing on the shoulders of giants
 
 ### Specialized in
 
@@ -22,65 +20,37 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+mạng lõi 4G/5G , mạng mềm (Software-Defined Networking) 
 
 
-## Education
+## Kinh nghiệm: 
 
-`1654-1660`
-__The King's School, Grantham.__
+2022 - hiện tại: LAB Hệ thống viễn thông, Ph.D: Định Thị Thái Mai
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Dự án hiện tại: ứng dụng SDN trong 5G 
 
 
+## Học vấn
 
-## Awards
+2020 - hiện tại: Đại học Công nghệ - Đại học quốc gia Hà Nội 
 
-`2012`
-President, *Royal Society*, London, UK
+Khoa Điện tử viễn thông 
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+GPA: 2.88 
 
 
-## Occupation
+### Kĩ năng cứng
+-  Ngôn ngữ lập trình: C/C++, Python, Java 
+-  Tiếng Anh: IELTS 6.5 
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+### Dự án đã làm 
+- Lập trình game Sokuban, 2021 ,  [Sokuban](https://github.com/dtt3212/sokuban)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- SDN rounting 
+
+
+## 
 
 
 
