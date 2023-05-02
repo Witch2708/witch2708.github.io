@@ -3,9 +3,11 @@ layout: cv
 title: My CV
 ---
 # Nguyễn Như Phúc 
+
 Sinh viên khoa Điện tử viễn thông 
 
 <div id="webaddress">
+
 <a href="phucnguyennhu2708@gmail.com">phucnguyennhu2708@gmail.com</a>
 
 </div>
@@ -23,14 +25,14 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 mạng lõi 4G/5G , mạng mềm (Software-Defined Networking) 
 
 
-## Kinh nghiệm: 
+### Kinh nghiệm: 
 
 2022 - hiện tại: LAB Hệ thống viễn thông, Ph.D: Định Thị Thái Mai
 
 Dự án hiện tại: ứng dụng SDN trong 5G 
 
 
-## Học vấn
+### Học vấn
 
 2020 - hiện tại: Đại học Công nghệ - Đại học quốc gia Hà Nội 
 
