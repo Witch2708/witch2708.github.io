@@ -186,12 +186,12 @@ strong {
 	display: none;
 }
 
-a {
+#webaddress a {
 	font-size: 1.5rem; 
 }
 
 code{
-	font-size: 1.5rem;	
+	font-size: 1.0rem;	
 }
 
 
