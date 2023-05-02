@@ -25,14 +25,18 @@ mạng lõi 4G/5G , mạng mềm (Software-Defined Networking)
 
 ## Kinh nghiệm: 
 
-2022 - hiện tại: LAB Hệ thống viễn thông, Ph.D: Định Thị Thái Mai
+`2022 - hiện tại`
+
+LAB Hệ thống viễn thông, Ph.D: Định Thị Thái Mai
 
 Dự án hiện tại: ứng dụng SDN trong 5G 
 
 
 ## Học vấn
 
-2020 - hiện tại: Đại học Công nghệ - Đại học quốc gia Hà Nội 
+`2020 - hiện tại`
+
+Đại học Công nghệ - Đại học quốc gia Hà Nội 
 
 Khoa Điện tử viễn thông 
 
