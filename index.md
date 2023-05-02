@@ -7,8 +7,6 @@ title: My CV
 <p style="margin-top: 0.3rem">Sinh viên khoa Điện tử viễn thông</p>
 
 
-Sinh viên khoa Điện tử viễn thông 
-
 <div id="webaddress">
 
 <a href="phucnguyennhu2708@gmail.com">phucnguyennhu2708@gmail.com</a>
