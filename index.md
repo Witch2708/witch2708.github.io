@@ -39,11 +39,12 @@ GPA: 2.88
 
 ## Kĩ năng cứng
 -  Ngôn ngữ lập trình: C/C++, Python, Java 
+
 -  Tiếng Anh: IELTS 6.5 
 
 
 ## Dự án đã làm 
-- Lập trình game Sokuban, 2021 ,  [Sokuban](https://github.com/dtt3212/sokuban)
+- Lập trình game Sokuban, 2021 , [Sokuban](https://github.com/dtt3212/sokuban)
 
 - SDN rounting 
 
