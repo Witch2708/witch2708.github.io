@@ -13,19 +13,19 @@ Sinh viên khoa Điện tử viễn thông
 </div>
 
 
-### Research interests
+## Research interests
 
 mạng lõi 4G/5G , mạng mềm (Software-Defined Networking) 
 
 
-### Kinh nghiệm: 
+## Kinh nghiệm: 
 
 2022 - hiện tại: LAB Hệ thống viễn thông, Ph.D: Định Thị Thái Mai
 
 Dự án hiện tại: ứng dụng SDN trong 5G 
 
 
-### Học vấn
+## Học vấn
 
 2020 - hiện tại: Đại học Công nghệ - Đại học quốc gia Hà Nội 
 
@@ -34,18 +34,18 @@ Khoa Điện tử viễn thông
 GPA: 2.88 
 
 
-### Kĩ năng cứng
+## Kĩ năng cứng
 -  Ngôn ngữ lập trình: C/C++, Python, Java 
 -  Tiếng Anh: IELTS 6.5 
 
 
-### Dự án đã làm 
+## Dự án đã làm 
 - Lập trình game Sokuban, 2021 ,  [Sokuban](https://github.com/dtt3212/sokuban)
 
 - SDN rounting 
 
 
-## 
+
 
 
 
