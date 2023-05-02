@@ -11,7 +11,7 @@ title: My CV
 
 <a href="phucnguyennhu2708@gmail.com">phucnguyennhu2708@gmail.com</a>
 
-<p>0332458786</p>
+<p>Điện thoại: 0332458786</p>
  
 </div>
 
