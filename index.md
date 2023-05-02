@@ -23,7 +23,7 @@ title: My CV
 mạng lõi 4G/5G , mạng mềm (Software-Defined Networking) 
 
 
-## Kinh nghiệm: 
+## Kinh nghiệm
 `2022 - hiện tại`
 LAB Hệ thống viễn thông, Ph.D: Định Thị Thái Mai
 
