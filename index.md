@@ -13,13 +13,6 @@ Sinh viên khoa Điện tử viễn thông
 </div>
 
 
-
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
 
 mạng lõi 4G/5G , mạng mềm (Software-Defined Networking) 
