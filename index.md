@@ -38,9 +38,9 @@ GPA: 2.88
 
 
 ## Kĩ năng cứng
--  Ngôn ngữ lập trình: C/C++, Python, Java 
+- Ngôn ngữ lập trình: C/C++, Python, Java 
 
--  Tiếng Anh: IELTS 6.5 
+- Tiếng Anh: IELTS 6.5 
 
 
 ## Dự án đã làm 
