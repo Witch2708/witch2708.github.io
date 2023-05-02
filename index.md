@@ -4,7 +4,7 @@ title: My CV
 ---
 # Nguyễn Như Phúc 
 
-
+<p style="margin-top: 0.3rem">Sinh viên khoa Điện tử viễn thông</p>
 
 
 Sinh viên khoa Điện tử viễn thông 
